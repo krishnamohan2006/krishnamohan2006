@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech in ECE, IIIT Allahabad — **Rank 2** | CGPA: **8.97**
+- 🎓 B.Tech in ECE, IIIT Allahabad — **Rank 2** | CGPA: **9.06**
 - 💻 Competitive Programmer | Full-stack Dev
 - 🏆 Solved **1100+ problems** across platforms
 - 🔥 Global CodeChef rank **#55**, Codeforces rank **#767**, LeetCode **Top 5% (Knight Badge)**
